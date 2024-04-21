@@ -7,20 +7,20 @@ Kickstarter serves as a platform for innovators, creators, and entrepreneurs to 
 The data set for this project can be found at https://www.kaggle.com/datasets/kemical/kickstarter-projects/data?select=ks-projects-201801.csv 
 
 ## Dataset columns
-ID - Internal Kickstarter ID
-name - name of the project
-category - sub category that the project belongs to
-main_category - main category of campaign (sub category falls into main category)
-currency - currency used to support
-deadline - deadline to crowdfunding
-goal - the fundrasing goal is the amount of money that a creator needs to complete their project
-launched - data launched
-usd_pledged - pledged amount in USD (conversion made by kickstarter)
-usd_pledged_real - pleadged amount made in USD (conversion made by fixer.io api)
-state - current condition the project is in
-backers - number of backers 
-country - country pledged from 
-usd_pledged - amount of money pledged in USD
-goal - target amount that the creators want, success is determined if pledged > goal
-usd_goal_real - Goal amount in USD (conversion made by fixer.io api)
+ID - Internal Kickstarter ID <br>
+name - name of the project<br>
+category - sub category that the project belongs to<br>
+main_category - main category of campaign (sub category falls into main category)<br>
+currency - currency used to support<br>
+deadline - deadline to crowdfunding<br>
+goal - the fundrasing goal is the amount of money that a creator needs to complete their project<br>
+launched - data launched<br>
+usd_pledged - pledged amount in USD (conversion made by kickstarter)<br>
+usd_pledged_real - pleadged amount made in USD (conversion made by fixer.io api)<br>
+state - current condition the project is in<br>
+backers - number of backers <br>
+country - country pledged from <br>
+usd_pledged - amount of money pledged in USD<br>
+goal - target amount that the creators want, success is determined if pledged > goal<br>
+usd_goal_real - Goal amount in USD (conversion made by fixer.io api)<br>
 
