@@ -24,3 +24,19 @@ usd_pledged - amount of money pledged in USD<br>
 goal - target amount that the creators want, success is determined if pledged > goal<br>
 usd_goal_real - Goal amount in USD (conversion made by fixer.io api)<br>
 
+## Data Preparation and Cleaning
+In this part of the project we prepared and cleaned the dataset to help analyze our data better and also make the data more suitable to be used for purposes of machine learning in the later sections.
+
+We performed the following:
+1. Checking and dropping any NULL values in the dataset. (in the 15 variables)
+2. Dropped all the unwanted columns. ( 7 variables dropped )
+3. Split the columns with datetime ("deadline" and "launched") into seperate columns with the month,year and duration of campaign.
+4. Remove all state types other than "successful" and "failed" due to ambiguity in them.
+5. Encoding the categorical variables.
+
+## Exploratory Data Analysis
+Then, we continued on to using Exploratory Data Analysis to find patterns in our data and answer some questions like What do our success variables look like? What is the general trend in the relationship between variables?  Can we make any inferences for our question at this stage?
+
+To achieve this we performed the following:
+
+1. We compare goal amount 
