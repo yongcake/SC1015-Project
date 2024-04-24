@@ -68,6 +68,9 @@ Analysis of categorical variables:
 ## Contributions 
 - Yee Yong Khang [yongcake](https://github.com/yongcake) - README, EDA, XGBClassifier Tuning
 - Shah Mihir Sunil [mihirshah2005](https://github.com/mihirshah2005) - 
-- Tan Yong Huat [TenLetterx](https://github.com/TenLetterx) - 
+- Tan Yong Huat [TenLetterx](https://github.com/TenLetterx) -
+
+## References
+- https://www.kaggle.com/datasets/kemical/kickstarter-projects/data?select=ks-projects-201801.csv
 
 
