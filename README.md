@@ -66,9 +66,9 @@ Analysis of categorical variables:
 
 
 ## Contributions 
-- Yee Yong Khang [yongcake](https://github.com/yongcake) - README, EDA, XGBClassifier Tuning
-- Shah Mihir Sunil [mihirshah2005](https://github.com/mihirshah2005) - 
-- Tan Yong Huat [TenLetterx](https://github.com/TenLetterx) -
+- Yee Yong Khang [yongcake](https://github.com/yongcake) - README, Exploratory Data Analysis, XGBoost Classifier Tuning
+- Shah Mihir Sunil [mihirshah2005](https://github.com/mihirshah2005) - README, Data Preperation, XGBoost Classifier
+- Tan Yong Huat [TenLetterx](https://github.com/TenLetterx) - Exploratory Data Analysis, Data Cleaning, DecisionTree Classifier, RandomForest Classifier
 
 ## References
 - https://www.kaggle.com/datasets/kemical/kickstarter-projects/data?select=ks-projects-201801.csv
