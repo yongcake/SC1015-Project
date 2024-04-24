@@ -46,8 +46,22 @@ Analysis of numerical variables:
 3. Explore number of backers and the success rate vs the state
 4. Compare the pledged amount in usd with the success rate
 
+
+
 Analysis of categorical variables:
 1. Plot the success rate and the main categories to find a relation , and then seperate the categories to succesfull and 
    failed campaigns and analyze the role of main categories with respect to this.
 2. Explore the relation of countries with the success rate of the startup campaign.
+
+## Models 
+1. DecisionTreeClassifier
+2. RandomForestClassifier
+3. XGBoost Classifier
+
+## Conclusion 
+- From EDA, we found the variables with higher correlation through visualization, to predict the success or failure of the kickstarter projects
+- We were able to reach a accuracy of 93% with XGBoost Classifier
+
+## Learning Outcomes
+
 
