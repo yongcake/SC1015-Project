@@ -35,8 +35,19 @@ We performed the following:
 5. Encoding the categorical variables.
 
 ## Exploratory Data Analysis
+
 Then, we continued on to using Exploratory Data Analysis to find patterns in our data and answer some questions like What do our success variables look like? What is the general trend in the relationship between variables?  Can we make any inferences for our question at this stage?
 
 To achieve this we performed the following:
 
-1. We compare goal amount 
+Analysis of numerical variables:
+1. Compare goal amount with the states and move on to determine success rate by goal amount range
+2. Explore duration of campaign in days and the success rate vs the state
+3. Explore number of backers and the success rate vs the state
+4. Compare the pledged amount in usd with the success rate
+
+Analysis of categorical variables:
+1. Plot the success rate and the main categories to find a relation , and then seperate the categories to succesfull and 
+   failed campaigns and analyze the role of main categories with respect to this.
+2. Explore the relation of countries with the success rate of the startup campaign.
+
