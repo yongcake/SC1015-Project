@@ -65,3 +65,9 @@ Analysis of categorical variables:
 ## Learning Outcomes
 
 
+## Contributions 
+- Yee Yong Khang [yongcake](https://github.com/yongcake)- README, Data Analysis, XGBClassifier Tuning
+- Shah Mihir Sunil [mihirshah2005](https://github.com/mihirshah2005) -
+- Tan Yong Huat [TenLetterx](https://github.com/TenLetterx) - 
+
+
