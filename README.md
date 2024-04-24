@@ -47,7 +47,6 @@ Analysis of numerical variables:
 4. Compare the pledged amount in usd with the success rate
 
 
-
 Analysis of categorical variables:
 1. Plot the success rate and the main categories to find a relation , and then seperate the categories to succesfull and 
    failed campaigns and analyze the role of main categories with respect to this.
@@ -62,7 +61,13 @@ Analysis of categorical variables:
 - From EDA, we found the variables with higher correlation through visualization, to predict the success or failure of the kickstarter projects
 - We were able to reach a accuracy of 93% with XGBoost Classifier
 
-## Learning Outcomes
+## Outcomes and data driven insights
+If you are ever interested in backing a kickstarter project but is worried if the project will be successful these are the variables to look out for
+- Lower goal amounts for the campaign
+- Higher number of backers
+- Compaigns usually ranging around 30 days
+
+All these factors contribute significanlty to a more successful Kickstarter project. Backers, investors & startup owners are advised to focus on these factors to predict and/or work towards a more successful campaign.
 
 
 ## Contributions 
@@ -72,5 +77,6 @@ Analysis of categorical variables:
 
 ## References
 - https://www.kaggle.com/datasets/kemical/kickstarter-projects/data?select=ks-projects-201801.csv
+- https://help.kickstarter.com/hc/en-us/articles/115005128434-What-is-the-maximum-project-duration#:~:text=Projects%20on%20Kickstarter%20can%20last,for%2030%20days%20or%20less.
 
 
